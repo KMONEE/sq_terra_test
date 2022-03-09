@@ -1,0 +1,13 @@
+type StarterEntity @entity {
+
+  id: ID! #id is a required field
+
+  hash: String!
+
+  sender: [String]
+
+  recipient: [String]
+
+  amount: [String]
+
+}

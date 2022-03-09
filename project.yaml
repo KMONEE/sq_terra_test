@@ -10,7 +10,8 @@ schema:
 
 network:
   genesisHash: 'q4PIUU/W6KSxGM9wyowkSW+Ij8HuODDeM4USpA2ucWc='
-  endpoint: 'https://terra.stakesystems.io'
+  endpoint: 'http://terra.dc.thechainhub.com:1317'
+  dictionary: 'https://api.subquery.network/sq/subquery/terra-dictionary'
   chainId: 'columbus-5'
 
 dataSources:
